@@ -1,2 +1,4 @@
-ASU CSE 572
-Assignment 01
+import pandas as pd
+import numpy as np
+import csv
+import datetime as datetime
